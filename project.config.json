@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./dist",
+  "projectname": "course-appointment",
+  "description": "课程预约小程序",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
